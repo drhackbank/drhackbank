@@ -1,3 +1,8 @@
+<!--
+  GitHub Profile README for: drhackbank
+  Place this file as README.md in a repo named exactly "drhackbank".
+-->
+
 <div align="center">
 
 <!-- Typing header -->
@@ -63,9 +68,6 @@ drhackbank@kali:~$ cat ethics.txt
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-handle)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-id)
 
-<!-- Credible way to show rank: name the platform.
-     e.g. "Top 100 in India on <platform>" beats an unsourced number. -->
-
 ---
 
 ## Stats
@@ -96,10 +98,25 @@ drhackbank@kali:~$ cat ethics.txt
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-drhackbank-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drhackbank)
-<!-- Add your real links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@drhackbank-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/drhackbank)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285141432562)
+[![Email](https://img.shields.io/badge/Email-dr.hackxwild@protonmail.com-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:dr.hackxwild@protonmail.com)
+
+---
+
+## Support / Buy Me a Coffee
+
+If my tools or write-ups help you, a small tip fuels new projects and contributions.
+
+**Bitcoin (BTC):**
+
+```
+bc1p3y79rhtk8wje62j7za34sa2j0gs4ygjhgwmywmwt5uxkd4yz5rhqn3hcgz
+```
+
+![Donate](https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+
+---
 
 <div align="center">
 
