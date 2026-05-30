@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README for: drhackbank
-  Place this file as README.md in a repo named exactly "drhackbank".
-  Tweak the placeholders marked <-- like this -->
--->
-
 <div align="center">
 
 <!-- Typing header -->
